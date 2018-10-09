@@ -1,0 +1,10 @@
+[huntanimal]
+	[sequence]
+		1) find closest dead animal
+		2) haul dead animal to butcher table
+		3) [repeat] {until work left counter 0}
+			1) play buther animation
+			2) play buthcer sound
+			3) decrease work left counter
+		4) spawn animal bits on table
+		
