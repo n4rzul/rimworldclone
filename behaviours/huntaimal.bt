@@ -1,0 +1,6 @@
+[huntanimal]
+	[sequence]
+		1) go to closest object with animal tag
+		2) shoot animal till dead
+		3) play animal death anim
+		
