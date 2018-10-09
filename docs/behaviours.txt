@@ -1,0 +1,8 @@
+[Behaviours to be implemented using behaviour trees]
+
+[wander]
+[repeat]
+	[sequence]
+		1) wait 5 seconds
+		2) get random location
+		3) go to random location
