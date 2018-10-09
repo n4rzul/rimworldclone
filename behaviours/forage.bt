@@ -1,0 +1,8 @@
+[forage]	
+	[pselect]
+		[1.wander] for 5 seconds
+		[2.sequence] <- guard look for food in immediate area			
+			1) move to food
+			2) face food
+			3) play eat anim
+			
