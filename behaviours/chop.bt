@@ -1,0 +1,13 @@
+[chop]
+	[repeat]
+		[sequence]
+			1) find closest tree
+			2) go to closest tree
+			3) position to face tree
+			4) repeat until tree hp=0
+				1) play chop animation
+				2) play chop sound
+				3) decrease tree health
+			5) play timberrrr! animation
+			6) spawn cut wood where tree was
+			7) delete tree prefab
